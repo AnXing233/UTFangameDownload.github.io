@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>我的新Hugo网站</title>
+    <link>https://AnXing233.github.io/</link>
+    <description>Recent content on 我的新Hugo网站</description>
+    <generator>Hugo</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://AnXing233.github.io/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
